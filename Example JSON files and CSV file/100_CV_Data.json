@@ -1,0 +1,31 @@
+{
+    "user_id": 100,
+    "first_name": "John",
+    "last_name": "Williams",
+    "birthdate": "1995-12-31",
+    "age": 28,
+    "sex": "M",
+    "data": [
+        {
+            "timestamp": "2024-09-02T20:05:53",
+            "rhr": 55,
+            "bp_systolic": 114,
+            "bp_diastolic": 72,
+            "hrr": 20
+        },
+        {
+            "timestamp": "2024-09-04T23:12:28",
+            "rhr": 62,
+            "bp_systolic": 117,
+            "bp_diastolic": 75,
+            "hrr": 22
+        },
+        {
+            "timestamp": "2024-09-07T18:17:10",
+            "rhr": 59,
+            "bp_systolic": 116,
+            "bp_diastolic": 73,
+            "hrr": 23
+        }
+    ]
+}

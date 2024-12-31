@@ -1,0 +1,31 @@
+{
+    "user_id": 101,
+    "first_name": "Kate",
+    "last_name": "Smith",
+    "birthdate": "2010-02-21",
+    "age": 14,
+    "sex": "F",
+    "data": [
+        {
+            "timestamp": "2024-09-02T20:06:42",
+            "rhr": 68,
+            "bp_systolic": 119,
+            "bp_diastolic": 78,
+            "hrr": 14
+        },
+        {
+            "timestamp": "2024-09-03T10:21:21",
+            "rhr": 66,
+            "bp_systolic": 115,
+            "bp_diastolic": 74,
+            "hrr": 17
+        },
+        {
+            "timestamp": "2024-09-04T12:02:34",
+            "rhr": 66,
+            "bp_systolic": 118,
+            "bp_diastolic": 77,
+            "hrr": 16
+        }
+    ]
+}
